@@ -3,6 +3,7 @@ import type { Query } from './types/query';
 import type { IStore, JValue } from './types/store';
 import { jsonEncode } from './utils/json';
 
+export type { Query } from './types/query';
 export type { IStore, JArray, JObject, JValue } from './types/store';
 
 type Awaitable<T> = Promise<T> | T;

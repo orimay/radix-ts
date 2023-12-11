@@ -1,6 +1,6 @@
 {
   "name": "radix-ts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This package provides a powerful Radix data storage and retrieval library for TypeScript. It allows you to efficiently store and manage structured data using a Radix tree data structure.",
   "author": "Dmitrii Baranov <dmitrii.a.baranov@gmail.com>",
   "license": "MIT",
